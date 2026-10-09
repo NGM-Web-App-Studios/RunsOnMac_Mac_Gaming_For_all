@@ -152,9 +152,47 @@ By combining community contributions with publicly available benchmarks, RunsOnM
 
 **Every contribution helps improve the experience for other Mac users.**
 
+
 ---
 
-## 08 / The Future of RunsOnMac
+## 08 / Navigation & Platform Features
+
+<img width="1680" height="1050" alt="Bildschirmfoto 2026-10-09 um 23 23 45" src="https://github.com/user-attachments/assets/66a2458a-4c34-41a3-90b5-f8c9b6c49afb" />
+
+### Everything you need. One platform.
+
+RunsOnMac features a clean, structured navigation system designed to make exploring Mac gaming simple and intuitive.
+
+**Browse**
+- **Discover** - Explore games and performance insights.
+- **Game Library** - Browse the growing collection of Mac games.
+- **Macs** - Explore Mac hardware and configurations.
+- **Tests** - Discover available performance tests.
+
+**Contribute**
+- **Share a Test** - Submit your own Mac gaming benchmarks.
+- **For Developers** - Explore resources for game developers.
+
+**Account & Information**
+- **Account** - Access your personal profile.
+- **Leaderboard** - Explore community rankings.
+- **Status** - Check platform information and status.
+- **About** - Learn more about RunsOnMac.
+- **Terms** - Review platform terms and conditions.
+- **Copyright & Sources** - Learn about data sources and attribution.
+- **Legal Notice** - Access legal information.
+
+---
+
+### Designed for simplicity.
+
+A minimal interface, clear navigation, and easy access to the features that matter.
+
+**Less searching. More gaming.**
+
+---
+
+## 09 / The Future of RunsOnMac
 
 ### Just getting started.
 
@@ -174,7 +212,7 @@ The long-term vision is simple:
 
 ---
 
-## 09 / About the Developer
+## 10 / About the Developer
 
 **Noah | NGM Web & App Studios**
 
