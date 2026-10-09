@@ -3,179 +3,198 @@
 
 ### Find your next Mac game.
 
-**A community-driven Mac gaming database built around real-world performance.**
+**Discover games. Explore benchmarks. Understand Mac performance.**
 
-Discover games, explore benchmarks, compare hardware configurations, and find out how well games actually run on Mac.
+RunsOnMac is a community-driven platform designed to make Mac gaming easier, smarter, and more accessible.
+
+Explore compatible games, compare real-world performance benchmarks, and discover what your Mac is truly capable of.
 
 **[Explore RunsOnMac →](https://runsonmacs.com)**
 
 ---
 
-## 01 / Discover RunsOnMac
+## 01 / Welcome to RunsOnMac
 
-![RunsOnMac Homepage](screenshots/homepage.png)
+![RunsOnMac Homepage]([PASTE_IMAGE_LINK_1_HERE](https://media.discordapp.net/attachments/1352646225710813278/1558226682886750298/Bildschirmfoto_2026-10-09_um_23.16.05.png?ex=6acaab2f&is=6ac959af&hm=ae394a9d11d3d8193ffb471e0d39c6f892ecb6aabb6ff55ed815ee3b60dc1d47&=&format=webp&quality=lossless&width=1024&height=640)
 
-### Mac gaming, made easier.
+### Mac gaming, made simple.
 
-Finding games for macOS shouldn't require hours of searching through forums, videos, and scattered benchmark results.
+Finding games that actually run well on macOS shouldn't require hours of searching through forums, videos, and benchmark websites.
 
-**RunsOnMac brings everything together in one place.**
+**RunsOnMac brings Mac gaming information together in one place.**
 
-Explore games, compare performance measurements, check Steam reviews, and discover what your Mac is capable of.
+Discover games, explore performance data, compare hardware configurations, and find your next gaming experience.
 
 ---
 
-## 02 / Explore the Game Library
+## 02 / Discover Games
 
-![Game Library](screenshots/game-library.png)
+![RunsOnMac Game Library]([PASTE_IMAGE_LINK_2_HERE](https://media.discordapp.net/attachments/1352646225710813278/1558225324091777114/Bildschirmfoto_2026-10-09_um_23.03.06.png?ex=6acaa9eb&is=6ac9586b&hm=4345d53f31850104df86ad37e46f959a25bbe06dc0875ca34bdd597ba5e52646&=&format=webp&quality=lossless&width=3072&height=1919))
 
 ### Discover. Compare. Play.
 
-Browse a growing collection of games through a clean, interactive interface.
+Browse an interactive game library designed specifically for Mac users.
 
-- **Game Discovery** - Explore available titles.
-- **Performance Ratings** - Understand how games perform on Mac.
-- **Multiple Sources** - Explore community reports, web benchmarks, and Steam reviews.
-- **Smart Search** - Find games quickly.
-- **Personal Library** - Save games you're interested in.
+**Key Features**
 
-Every game is presented with relevant information to make discovering your next game easier.
+- **Game Discovery** - Explore available Mac games.
+- **Performance Ratings** - See how well games perform on Mac hardware.
+- **Steam Reviews** - Explore general player ratings.
+- **Multiple Data Sources** - Community benchmarks, web benchmarks, and Steam data.
+- **Personal Library** - Save games for later.
+- **Smart Search** - Quickly find specific titles.
+
+Each game card provides an overview of available information, making it easier to discover your next game.
 
 ---
 
-## 03 / Configure Your Mac
+## 04 / Configure Your Mac
 
-![Mac Configuration](screenshots/mac-configuration.png)
+![RunsOnMac Hardware Configuration]([PASTE_IMAGE_LINK_4_HERE](https://media.discordapp.net/attachments/1352646225710813278/1558225323525669146/Bildschirmfoto_2026-10-09_um_23.03.13.png?ex=6acaa9eb&is=6ac9586b&hm=1de38c0b65f19ac0bd033d66d8e26a3e4f1b1c726e12a82828415b236768b3bb&=&format=webp&quality=lossless&width=3072&height=1919))
 
 ### Your Mac. Your performance.
 
-Not every Mac performs the same.
+Not every Mac delivers the same gaming experience.
 
-RunsOnMac lets you configure your hardware to explore performance results relevant to your device.
+RunsOnMac allows you to configure your hardware and explore performance data relevant to your device.
 
-**Hardware configuration**
+**Hardware Configuration**
 - Mac model
 - Release year
-- Processor or chip
-- RAM
+- Processor / Apple Silicon chip
+- Installed RAM
 
-**Performance filters**
+**Advanced Filters**
 - 30 FPS / 60 FPS
-- Best quality
-- Performance rating
-- Review status
+- Best graphical quality
+- Performance ratings
+- Recently reviewed games
 - Singleplayer / Multiplayer
+- Compatibility and coverage
 
-Find games based on published performance data instead of relying on general compatibility labels.
-
----
-
-## 04 / Advanced Filtering
-
-![Advanced Filters](screenshots/advanced-filters.png)
-
-### Find exactly what you're looking for.
-
-Combine hardware selection with performance targets and game filters to narrow down your search.
-
-Whether you're looking for smooth gameplay, higher graphical quality, or simply want to know what your Mac can handle, RunsOnMac helps you explore the available evidence.
-
-**Compatibility doesn't automatically mean good performance.**
+Instead of simply asking whether a game supports macOS, RunsOnMac helps you investigate how well it actually performs.
 
 ---
 
-## 05 / Detailed Game Overview
+## 05 / Detailed Game Information
 
-![Game Details](screenshots/game-details.png)
+![RunsOnMac Game Details]([PASTE_IMAGE_LINK_5_HERE](https://media.discordapp.net/attachments/1352646225710813278/1558225322732814507/Bildschirmfoto_2026-10-09_um_23.03.22.png?ex=6acaa9eb&is=6ac9586b&hm=7f794fbf2b1a3fbb4d0440283c4614c00c392f8ef7d27cc1ff11462c50bd7cf9&=&format=webp&quality=lossless&width=3072&height=1919))
 
-### Every game has a story. We focus on its performance.
+### Every game. Every detail.
 
-Open a game to explore its available Mac performance information in an interactive detail view.
+Open any game to explore its available performance information in an interactive overview.
 
-Discover:
-
+**Game Information**
+- Game title and artwork
+- Steam Store access
+- macOS availability information
 - Overall Mac performance rating
 - Number of recorded benchmarks
-- Tested hardware configurations
-- Latest available test
-- Individual performance measurements
-- Links to relevant sources and stores
+- Number of tested devices
+- Latest recorded test
 
-Performance scores are based on available Mac measurements, not simply whether a game has a macOS release.
+### Mac Performance Rating
+
+RunsOnMac summarizes available performance measurements into a simple **5-point rating system**.
+
+This provides a quick overview of how well a game performs across recorded Mac hardware configurations.
+
+Individual measurements remain available for deeper analysis.
 
 ---
 
-## 06 / Real-World Benchmarks
+## 06 / Real-World Performance Benchmarks
 
-![Performance Benchmarks](screenshots/benchmarks.png)
+![RunsOnMac Performance Benchmarks]([PASTE_IMAGE_LINK_6_HERE](https://media.discordapp.net/attachments/1352646225710813278/1558225322069991608/Bildschirmfoto_2026-10-09_um_23.03.28.png?ex=6acaa9eb&is=6ac9586b&hm=7260a54788db40acb9517e3085540b564f5c69d6dce938570b614d15f574c772&=&format=webp&quality=lossless&width=3072&height=1919))
 
-### Real hardware. Real measurements.
+### Real hardware. Real results.
 
-RunsOnMac combines different sources of performance information to build a clearer picture of Mac gaming.
+RunsOnMac combines performance information from multiple sources to provide a clearer picture of gaming on macOS.
 
-**Community Benchmarks**
+### Community Benchmarks
 
-Performance reports submitted by Mac users, including hardware configurations and gameplay results.
+Performance reports submitted by Mac users, helping the community share real-world gaming experiences.
 
-**Web Benchmarks**
+### Web Benchmarks
 
-Publicly available performance measurements collected from external sources, with source attribution and additional validation checks.
+Publicly available performance measurements gathered from external sources.
 
-**Individual Test Details**
+RunsOnMac identifies the original source and checks observations against additional evidence.
 
-Explore available information such as:
+### Individual Benchmark Details
+
+Explore available measurements including:
 
 - Mac model and processor
 - Installed memory
-- FPS measurements
-- Resolution and graphics settings
-- Benchmark source
+- Average FPS
+- Display resolution
+- Graphics settings
+- Original benchmark source
 - Verification status
+- Date of source review
 
-Not every report is independently confirmed. RunsOnMac distinguishes available measurements from verified information.
+**Transparency matters.**
 
----
-
-## 07 / Built for the Mac Gaming Community
-
-### Better data starts with real players.
-
-RunsOnMac is designed to grow through community contributions and publicly available performance information.
-
-Users can submit their own gaming experiences and help expand the database.
-
-**More tests. Better insights. Smarter decisions.**
+Not every benchmark is independently verified. RunsOnMac distinguishes source measurements from confirmed results and provides attribution where available.
 
 ---
 
-## 08 / What's Next?
+## 07 / Built for the Community
 
-RunsOnMac continues to evolve.
+### Better data. Better decisions.
 
-The roadmap includes expanding game coverage, improving performance data, refining hardware-based discovery, and developing a dedicated Mac application.
+RunsOnMac is more than a game catalog.
 
-The goal remains simple:
+It's a growing platform built around the idea that Mac gamers deserve accessible, transparent, and useful performance information.
 
-> Make Mac gaming easier to explore, understand, and enjoy.
+By combining community contributions with publicly available benchmarks, RunsOnMac aims to reduce the uncertainty surrounding gaming on macOS.
 
----
-
-## About the Project
-
-**Created by Noah**
-**NGM Web & App Studios**
-
-RunsOnMac started with a simple frustration: spending hours searching for games that actually run well on Mac.
-
-That frustration turned into a project focused on making real-world Mac gaming information more accessible.
+**Every contribution helps improve the experience for other Mac users.**
 
 ---
 
-### Explore the Platform
+## 08 / The Future of RunsOnMac
+
+### Just getting started.
+
+RunsOnMac is continuously evolving.
+
+**Development Focus**
+- Expanding the game database
+- Improving benchmark coverage
+- Refining hardware-based discovery
+- Enhancing performance ratings
+- Growing community contributions
+- Developing a dedicated Mac application
+
+The long-term vision is simple:
+
+> One platform to discover, understand, and explore Mac gaming.
+
+---
+
+## 09 / About the Developer
+
+**Noah | NGM Web & App Studios**
+
+RunsOnMac started with a personal frustration: spending hours searching for games that would actually run well on my Mac.
+
+What began as a simple idea turned into a platform focused on making Mac gaming information easier to access and understand.
+
+Built independently, with a focus on functionality, clean design, and real-world usefulness.
+
+---
+
+## Explore RunsOnMac
 
 **Website:** https://runsonmacs.com
 
-**Status:** Active Development / Beta
+**Platform:** macOS Gaming Database
+
+**Development:** Actively maintained
+
+**Creator:** Noah / NGM Web & App Studios
 
 ---
 
