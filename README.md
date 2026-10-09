@@ -15,7 +15,7 @@ Explore compatible games, compare real-world performance benchmarks, and discove
 
 ## 01 / Welcome to RunsOnMac
 
-![RunsOnMac Homepage]([PASTE_IMAGE_LINK_1_HERE](https://media.discordapp.net/attachments/1352646225710813278/1558226682886750298/Bildschirmfoto_2026-10-09_um_23.16.05.png?ex=6acaab2f&is=6ac959af&hm=ae394a9d11d3d8193ffb471e0d39c6f892ecb6aabb6ff55ed815ee3b60dc1d47&=&format=webp&quality=lossless&width=1024&height=640)
+<img width="1680" height="1050" alt="Bildschirmfoto 2026-10-09 um 23 16 05" src="https://github.com/user-attachments/assets/803a03ef-ef0e-4bbd-bd70-66f88b6fc8e8" />
 
 ### Mac gaming, made simple.
 
@@ -29,7 +29,7 @@ Discover games, explore performance data, compare hardware configurations, and f
 
 ## 02 / Discover Games
 
-![RunsOnMac Game Library]([PASTE_IMAGE_LINK_2_HERE](https://media.discordapp.net/attachments/1352646225710813278/1558225324091777114/Bildschirmfoto_2026-10-09_um_23.03.06.png?ex=6acaa9eb&is=6ac9586b&hm=4345d53f31850104df86ad37e46f959a25bbe06dc0875ca34bdd597ba5e52646&=&format=webp&quality=lossless&width=3072&height=1919))
+<img width="1680" height="1050" alt="Bildschirmfoto 2026-10-09 um 23 03 06" src="https://github.com/user-attachments/assets/a804b78c-6ab0-4b45-ba85-6f0a76c9b190" />
 
 ### Discover. Compare. Play.
 
@@ -50,7 +50,7 @@ Each game card provides an overview of available information, making it easier t
 
 ## 04 / Configure Your Mac
 
-![RunsOnMac Hardware Configuration]([PASTE_IMAGE_LINK_4_HERE](https://media.discordapp.net/attachments/1352646225710813278/1558225323525669146/Bildschirmfoto_2026-10-09_um_23.03.13.png?ex=6acaa9eb&is=6ac9586b&hm=1de38c0b65f19ac0bd033d66d8e26a3e4f1b1c726e12a82828415b236768b3bb&=&format=webp&quality=lossless&width=3072&height=1919))
+<img width="1680" height="1050" alt="Bildschirmfoto 2026-10-09 um 23 03 13" src="https://github.com/user-attachments/assets/b08a69c0-9838-4020-a3a0-3b430a3d888a" />
 
 ### Your Mac. Your performance.
 
@@ -78,7 +78,7 @@ Instead of simply asking whether a game supports macOS, RunsOnMac helps you inve
 
 ## 05 / Detailed Game Information
 
-![RunsOnMac Game Details]([PASTE_IMAGE_LINK_5_HERE](https://media.discordapp.net/attachments/1352646225710813278/1558225322732814507/Bildschirmfoto_2026-10-09_um_23.03.22.png?ex=6acaa9eb&is=6ac9586b&hm=7f794fbf2b1a3fbb4d0440283c4614c00c392f8ef7d27cc1ff11462c50bd7cf9&=&format=webp&quality=lossless&width=3072&height=1919))
+<img width="1680" height="1050" alt="Bildschirmfoto 2026-10-09 um 23 03 22" src="https://github.com/user-attachments/assets/63648181-ac66-462a-934c-b20dcb31d951" />
 
 ### Every game. Every detail.
 
@@ -105,7 +105,7 @@ Individual measurements remain available for deeper analysis.
 
 ## 06 / Real-World Performance Benchmarks
 
-![RunsOnMac Performance Benchmarks]([PASTE_IMAGE_LINK_6_HERE](https://media.discordapp.net/attachments/1352646225710813278/1558225322069991608/Bildschirmfoto_2026-10-09_um_23.03.28.png?ex=6acaa9eb&is=6ac9586b&hm=7260a54788db40acb9517e3085540b564f5c69d6dce938570b614d15f574c772&=&format=webp&quality=lossless&width=3072&height=1919))
+<img width="1680" height="1050" alt="Bildschirmfoto 2026-10-09 um 23 03 28" src="https://github.com/user-attachments/assets/efe5e698-2c98-4dcd-b92e-93feb5213f2c" />
 
 ### Real hardware. Real results.
 
